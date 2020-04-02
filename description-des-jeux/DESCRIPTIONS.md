@@ -73,7 +73,7 @@ Board de jeu
 
 C'est par Là !
 
-[installation](https://github.com/rodolphe37/install-games/blob/master/tutoriel-installation-games/INSTALLATION.md)
+[installation](https://github.com/rodolphe37/install-games-repository/blob/master/tutoriel-installation-games/INSTALLATION.md)
 
 
 
