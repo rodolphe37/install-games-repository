@@ -34,7 +34,7 @@
 ## Description et démo en Images
 
 Pour la démo en images, la Description et l'histoire de la conception des jeux !
-c'est ici : [Desciption](https://github.com/rodolphe37/install-games/blob/master/description-des-jeux/DESCRIPTIONS.md)
+c'est ici : [Desciption](https://github.com/rodolphe37/install-games-repository/blob/master/description-des-jeux/DESCRIPTIONS.md)
 
 ---
 
@@ -42,7 +42,7 @@ c'est ici : [Desciption](https://github.com/rodolphe37/install-games/blob/master
 
 C'est par Là !
 
-[installation](https://github.com/rodolphe37/install-games/blob/master/tutoriel-installation-games/INSTALLATION.md)
+[installation](https://github.com/rodolphe37/install-games-repository/blob/master/tutoriel-installation-games/INSTALLATION.md)
 
 
 
