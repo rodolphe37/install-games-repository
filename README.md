@@ -27,7 +27,13 @@
 ![demogif](demo-sort.gif)
 
 ***Démo de Match 3 Yoga Game***
-![demogif](demo-match.gif)
+![demogif](match-3-demo.gif)
+
+***Démo de Remake Earth Puzzle Game***
+![demogif](remake-earth-puzzle.gif)
+
+***Démo de Tetris Classic Game***
+![demogif](tetris-classic.gif)
 
 ---
 

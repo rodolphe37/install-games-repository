@@ -40,7 +40,7 @@
 1. procurez vous le fichier zip
   - [Memory Yoga Game pour Windows](https://github.com/jn-html/memory-yoga-game-desktop-versions/blob/master/windows/memory-yoga-minigame-win10-x64.zip)
   - [Sort The Waste Game pour Windows](https://github.com/jn-html/sort-the-waste-game-desktop-versions/blob/master/windows/sort-the-waste-game-win10-X64.zip)
-  - [Match 3 Yoga Game pour Windows](https://github.com/rodolphe37/install-games/tree/master/match-3-yoga-game-all-versions/windows/match-3-yoga-game-windows-x64.zip)
+  - [Match 3 Yoga Game pour Windows](https://github.com/Bwouno/match-3-yoga-game-all-versions/blob/master/windows/Match3-Yoga-V3.0-final-Windows.zip)
   - [Tetris Classic Game pour Windows](https://github.com/rodolphe37000/tetris-classic-game-desktop-version/blob/master/windows/Tetris-Classic-Game-Windows-X64.zip)
   - [Remake Earth Puzzle Game pour Windows](https://github.com/rodolphe37000/remake-earth-puzzle-game-desktop-version/blob/master/windows/Remake%20Earth%20Puzzle%20V3.0-final-%20Windows.zip)
 
@@ -119,7 +119,7 @@ Enjoy :sunglasses:
 1. procurez vous le fichier zip
   - [Memory Yoga Game pour Mac](https://github.com/jn-html/memory-yoga-game-desktop-versions/blob/master/mac-osx/memory-yoga-minigame-0.1.0-Mac-osx-Catalina.zip)
   - [Sort The Waste Game pour Mac](https://github.com/jn-html/sort-the-waste-game-desktop-versions/blob/master/mac-osx/sort-the-waste-game-Mac-osx-Catalina.zip)
-  - [Match 3 Yoga Game pour Mac](https://github.com/rodolphe37/install-games/tree/master/match-3-yoga-game-all-versions/mac-osx/drag-and-drop-yoga-game-0.1.0-Mac-osx.zip)
+  - [Match 3 Yoga Game pour Mac](https://github.com/Bwouno/match-3-yoga-game-all-versions/blob/master/mac-osx/match-3-yoga-game-V3.0-final-Mac-osx.zip)
   - [Tetris Classic Game pour Mac](https://github.com/rodolphe37000/tetris-classic-game-desktop-version/blob/master/mac/Tetris-Classic-Game-Mac-osx.zip)
   - [Remake Earth Puzzle Game pour Mac](https://github.com/rodolphe37000/remake-earth-puzzle-game-desktop-version/blob/master/mac/Remake%20Earth%20Puzzle-V-3.0-final-release.Mac-osx.zip)
 
@@ -174,7 +174,7 @@ Enjoy :sunglasses:
 1. procurez vous le fichier zip
     - [Memory Yoga Game pour Linux](https://github.com/jn-html/memory-yoga-game-desktop-versions/blob/master/linux/memory-yoga-minigame-0.1.0-ubuntu.zip)
     - [Sort The Waste Game pour Linux](https://github.com/jn-html/sort-the-waste-game-desktop-versions/blob/master/linux/sort-the-waste-game-Ubuntu-18.04-X64.zip)
-    - [Match 3 Yoga Game pour Linux](https://github.com/Bwouno/match-3-yoga-game-all-versions/blob/master/linux/match-3-yoga-game-0.1.0-linux-x64.zip)
+    - [Match 3 Yoga Game pour Linux](https://github.com/Bwouno/match-3-yoga-game-all-versions/blob/master/linux/match-3-yoga-game-V3.0-final-Ubuntu.zip)
     - [Tetris Classic Game pour Linux](https://github.com/rodolphe37000/tetris-classic-game-desktop-version/blob/master/linux/Tetris-Classic-Game-Ubuntu-amd64.zip)
     - [Remake Earth Puzzle Game pour Linux](https://github.com/rodolphe37000/remake-earth-puzzle-game-desktop-version/blob/master/linux/Remake%20Earth%20Puzzle-V-3.0-Final-Ubuntu.zip)
 
