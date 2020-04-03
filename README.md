@@ -21,18 +21,23 @@
 ## Démo Vidéo
 
 ***Démo de Memory Yoga Cards Game***
+
 ![demogif](demo.gif)
 
 ***Démo de Sort the Waste Game***
+
 ![demogif](demo-sort.gif)
 
 ***Démo de Match 3 Yoga Game***
+
 ![demogif](match-3-demo.gif)
 
 ***Démo de Remake Earth Puzzle Game***
+
 ![demogif](remake-earth-puzzle.gif)
 
 ***Démo de Tetris Classic Game***
+
 ![demogif](tetris-classic.gif)
 
 ---
