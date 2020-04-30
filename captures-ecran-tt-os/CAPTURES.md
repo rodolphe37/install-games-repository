@@ -91,6 +91,8 @@ Il est possible d'effectuer des captures d'écran de son ordinateur. Par défaut
 
 On peut également réaliser des captures qui seront enregistrées dans le répertoire "Images" de l'utilisateur avec un nom de la forme "Capture d’écran de [date] [heure].png" par des raccourcis clavier :
 
-``impr-écr`` : copie de l'écran entier
-``alt+impr-écr`` : copie de la fenêtre active
-``maj+impr-écr`` : initie une capture d'une zone rectangulaire à tracer
+``impr-écr`` : copie de l'écran entier,
+
+``alt+impr-écr`` : copie de la fenêtre active,
+
+``maj+impr-écr`` : initie une capture d'une zone rectangulaire à tracer.
