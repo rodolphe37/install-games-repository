@@ -87,9 +87,9 @@ Dans macOS Mojave ou une version ultérieure, vous pouvez modifier l’emplaceme
 ---
 ***Réaliser une capture d'écran (image)***
 
-Il est possible d'effectuer des captures d'écran de son ordinateur, afin de montrer un problème, ou plus simplement à quel point son bureau est joli, etc. Par défaut, sous Ubuntu, la capture "image" d'écran s'effectue avec l'outil gnome Screenshot.
+Il est possible d'effectuer des captures d'écran de son ordinateur. Par défaut, sous Ubuntu, la capture "image" d'écran s'effectue avec l'outil gnome Screenshot.
 
-On peut également réaliser des captures qui seront enregistrées dans le répertoire "Images" de l'utilisateur avec un nom de la forme "Capture d’écran de <date> <heure>.png" par des raccourcis clavier :
+On peut également réaliser des captures qui seront enregistrées dans le répertoire "Images" de l'utilisateur avec un nom de la forme "Capture d’écran de [date] [heure].png" par des raccourcis clavier :
 
 ``impr-écr`` : copie de l'écran entier
 ``alt+impr-écr`` : copie de la fenêtre active
