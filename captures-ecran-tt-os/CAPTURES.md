@@ -81,9 +81,10 @@ Par défaut, les captures d’écran sont enregistrées sur votre bureau sous le
 
 Dans macOS Mojave ou une version ultérieure, vous pouvez modifier l’emplacement par défaut des captures d’écran enregistrées dans le menu Options de l’app Capture d’écran. Vous pouvez également faire glisser la miniature vers un dossier ou un document.
 
+---
 
 # Capture d’écran, ou de zones d’écran (screenshots) sous Ubuntu.
-
+---
 ***Réaliser une capture d'écran (image)***
 
 Il est possible d'effectuer des captures d'écran de son ordinateur, afin de montrer un problème, ou plus simplement à quel point son bureau est joli, etc. Par défaut, sous Ubuntu, la capture "image" d'écran s'effectue avec l'outil gnome Screenshot.
