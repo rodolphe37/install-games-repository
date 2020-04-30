@@ -55,6 +55,11 @@ C'est par Là !
 
 [installation](https://github.com/rodolphe37/install-games-repository/blob/master/tutoriel-installation-games/INSTALLATION.md)
 
+---
+
+## Tutoriels de capture d'écran pour Windows, Mac et Ubuntu
+
+[capture](https://github.com/rodolphe37/install-games-repository/blob/master/captures-ecran-tt-os/CAPTURES.md)
 
 
 ## Auteur

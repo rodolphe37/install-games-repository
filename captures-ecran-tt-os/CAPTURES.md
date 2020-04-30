@@ -1,4 +1,4 @@
-# Capture d'écran, tutoriel pour tous systèmes d'exploitation :
+# Capture d'écran, tutoriel pour tous systèmes d'exploitation:
 ---
 
 ## Capture d'écran sur PC sous Windows 10, 8, 7
