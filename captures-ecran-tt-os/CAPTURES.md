@@ -73,6 +73,7 @@ Vous pouvez effectuer une capture d’écran d’une fenêtre ou encore de l’i
 3 - Cliquez sur la fenêtre ou sur le menu pour le capturer. Maintenez la touche Option enfoncée lorsque vous cliquez sur la fenêtre afin d’exclure de la capture d’écran les zones d’ombre de la fenêtre.
 
 4 - Si vous voyez une miniature dans le coin de votre écran, cliquez dessus pour modifier la capture d’écran. Vous pouvez également attendre que la capture d’écran soit enregistrée sur votre bureau.
+
 ---
 
 ## Emplacement des captures d’écran.
