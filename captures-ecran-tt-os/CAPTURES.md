@@ -30,6 +30,7 @@ Après, vous devrez utiliser Paint ou votre logiciel d’édition graphique pré
 ![enregistrerpng](enregistrer-capture-ecran-mspaint.png)
 
  **Félicitations ! Vous savez maintenant comment faire une capture d’écran en utilisant la touche Imp. écran ! 👍**
+
 ---
 
 ## capture d’écran sur un Mac
