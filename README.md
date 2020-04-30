@@ -59,7 +59,7 @@ C'est par Là !
 
 ## Tutoriels de capture d'écran pour Windows, Mac et Ubuntu
 
-[capture](https://github.com/rodolphe37/install-games-repository/blob/master/captures-ecran-tt-os/CAPTURES.md)
+[Tutoriels pour capture d'écran](https://github.com/rodolphe37/install-games-repository/blob/master/captures-ecran-tt-os/CAPTURES.md)
 
 
 ## Auteur
