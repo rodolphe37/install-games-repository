@@ -12,12 +12,12 @@ Après, vous devrez utiliser Paint ou votre logiciel d’édition graphique pré
 
 1 -Capturez la zone de l’écran désirée :
 
-   - Pour capturer la totalité de l’écran : appuyez sur la touche ``Impr. écran``.
-   - Pour capturer uniquement la fenêtre active : appuyez simultanément sur les touches ``Alt`` + ``Impr. écran``.
+   - Pour capturer la **totalité de l’écran** : appuyez sur la touche ``Impr. écran``.
+   - Pour capturer **uniquement la fenêtre active** : appuyez simultanément sur les touches ``Alt`` + ``Impr. écran``.
    -
 2 - La zone capturée est à présent placée dans le Presse-papier.
 
-3 - Ouvrez ensuite Paint ou votre logiciel d’édition graphique (comme GIMP ou Paint.NET) puis collez votre capture avec ``Ctrl`` + ``V``.
+3 - Ouvrez ensuite ***Paint*** ou votre logiciel d’édition graphique (comme GIMP ou Paint.NET) puis collez votre capture avec ``Ctrl`` + ``V``.
 
 ![mspaintpng](mspaint-coller-capture-ecran.png)
 
