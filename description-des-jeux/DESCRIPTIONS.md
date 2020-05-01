@@ -84,7 +84,7 @@ C'est par Là !
 
   Par le biais de jeux ludiques et accessibles à tous, je souhaite réveiller la conscience individuelle et collective du fait que notre destin, ainsi que celui de la Terre sont liés, et que sans vous la planète ne pourra survivre à notre folie incontrolée et notre innocence démesurée.
 
-  De se fait, j'ai créer ces jeux afin qu'il soit ludique pour toutes personnes et de tous âges.... c'est une goutte d'eau dans l'océan dira t'on, mais l'ocean est constituée de milliard de goutte... donc, il faut bien commencer quelque part.
+  De ce fait, j'ai créer ces jeux afin qu'il soit ludique pour toutes personnes et de tous âges.... c'est une goutte d'eau dans l'océan dira t'on, mais l'ocean est constituée de milliard de goutte... donc, il faut bien commencer quelque part.
 
   Je suis intimmement convaincu que l'aspect ludique est notre salut quant au reveil de tous aux enjeux en cours en ce moment.
 
