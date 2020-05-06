@@ -15,7 +15,7 @@
   - Windows 10 professional edition
   - Windows 7 family edition
   - Mac osx Catalina
-  - Ubuntu 18.04
+  - Ubuntu 18.04 et 19.10
 ---
 
 ## Démo
