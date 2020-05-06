@@ -24,7 +24,7 @@
 ***Démo de Memory Yoga Cards Game***
 ---
 A l'arrivé :
-![accueilpng](memory-1.png)
+![accueilpng](memory-19.10.png)
 
 Board de jeu
 ![boardpng](memory-2.png)
@@ -32,7 +32,7 @@ Board de jeu
 ***Démo de Sort the Waste Game***
 ---
 A l'arrivé :
-![accueilpng](sortwaste-1.png)
+![accueilpng](sortwaste-19.10.png)
 
 Board de jeu
 ![boardpng](sortwaste-2.png)
@@ -40,7 +40,7 @@ Board de jeu
 ***Démo de Match 3 Yoga Game***
 ---
 A l'arrivé :
-![accueilpng](match3-0.png)
+![accueilpng](match3-19.10.png)
 
 Board de jeu
 ![boardpng](match3-1.png)
@@ -51,7 +51,7 @@ Déplacements
 ***Démo de Remake Earth Puzzle Game***
 ---
 A l'arrivé :
-![accueilpng](remake-0.png)
+![accueilpng](remake-19.10.png)
 
 Board de jeu
 ![boardpng](remake-1.png)
