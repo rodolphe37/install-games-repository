@@ -32,7 +32,7 @@ Board de jeu
 ***Démo de Sort the Waste Game***
 ---
 A l'arrivé :
-![accueilpng](sortwaste-19.10.png)
+![accueilpng](sort-19.10.png)
 
 Board de jeu
 ![boardpng](sortwaste-2.png)
